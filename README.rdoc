@@ -1,0 +1,4 @@
+== Image resizing sandbox/test-bed
+
+=== testing out image uploads with CarrierWave
+=== resizing after upload with Jcrop

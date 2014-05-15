@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  database: resize_development
+
+test:
+  adapter: postgresql
+  database: resize_test
